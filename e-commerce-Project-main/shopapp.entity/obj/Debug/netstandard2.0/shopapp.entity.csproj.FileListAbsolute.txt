@@ -1,0 +1,9 @@
+C:\Users\comol\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\comol\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\comol\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\comol\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
